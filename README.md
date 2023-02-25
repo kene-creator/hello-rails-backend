@@ -37,7 +37,7 @@
 
 # 📖 [hello_rails_backend] <a name="about-project"></a>
 
-> This is the backend for a react application project
+> This is the backend for a react application project it provides data for the [hello react front end](https://github.com/kene-creator/hello_rails_front_end)
 
 **[hello_rails_react_backend]** is a...
 
